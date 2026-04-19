@@ -1,3 +1,3 @@
-# genpark-shu-zi-nv-wa
+# genpark-site-themer
 
 Auto-distilled OpenClaw skill.
